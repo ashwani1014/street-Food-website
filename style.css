@@ -1,0 +1,105 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+*{
+   margin: 0;
+   padding: 0px;;
+
+}
+.container{
+    max-width: 80vw;
+}
+
+.navbar{
+    display:flex;
+    height: 67px;
+    font-family: "Ubuntu", sans-serif;
+}
+
+.navbar li{
+    list-style:none;
+    margin: 0   80px;
+}
+.toleft{
+    width: 50%;
+    height: 50vh;
+
+}
+
+
+.topright{
+    width: 90%;
+    height: 50vh;
+}
+.element-style {
+    height: 1004px;
+    width: 509px;
+    padding: -20%;
+    margin: 0%;
+}
+ 
+.healthyfood{
+    height: 10vh;
+    width:
+    80px;
+    margin: 5px  500px;
+}
+.chef{
+    width: 89px;
+}
+
+.section2{
+    padding-left: 50px;
+    padding-right: 10px;
+}
+.box{
+    margin: 20px 500px;
+}
+.box2{
+    margin: 0px 10px;
+}
+.fastfood{
+    height: 10vh;
+    width:80px;
+    margin: 5px  90px;
+}
+.pizza{
+    height: 10vh;
+    width:80px;
+    margin: 5px  90px;
+}
+.image
+{
+    border-radius: 40%;
+
+} 
+li{
+    font-weight: 500;
+    font-size: larger;
+
+}
+.Font{
+     
+    font-size:xx-large;
+    
+}
+
+body{
+    background-image:url('https://c4.wallpaperflare.com/wallpaper/161/113/135/pizza-fast-food-vegetables-food-wallpaper-preview.jpg')"
+}
+.section1,.section2{
+     
+    color: aliceblue;
+   
+    background-image:url('https://i.pinimg.com/1200x/87/6c/bc/876cbcf2178b8a1d12301ece66166b8b.jpg');
+    background-size: cover;
+}
+#ashu{
+    background-image:url('https://i.pinimg.com/originals/bb/67/69/bb676942703294ae7ad96d56e08f5ea9.gif');
+    background-size: cover;
+    font-weight: 900;
+}
+p{
+    font-weight: 1200;
+    font-size: larger;
+}
+    
